@@ -1,0 +1,408 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lanseter's lance, for Edwards'es gangrene: or, A ripping up, and laying open some rotten, putrified, corrupt, stinking matter in Mr. Thomas Edwards his Gangren, or book intituled, The second part of Gangrena. Wherein, amongst others, he hath abused and belied Mr. John Lanceter, calling him pedler, and saying, that he opened the whole book of Ezra, at a privat meeting in stead of opening his pack, which is proved false, and other things also. So that in consideration of the particulars, judicious men may well conceive the cause of his Gangren to be his blind ignorance of the truth, and his mad malice against the wel-affected conscientious people. Published according to order.</title>
+            <author>Lanseter, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88697</idno>
+            <idno type="STC">Wing L425B</idno>
+            <idno type="STC">Thomason E354_17</idno>
+            <idno type="STC">ESTC R201101</idno>
+            <idno type="EEBO-CITATION">99861664</idno>
+            <idno type="PROQUEST">99861664</idno>
+            <idno type="VID">159887</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88697)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159887)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E354[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lanseter's lance, for Edwards'es gangrene: or, A ripping up, and laying open some rotten, putrified, corrupt, stinking matter in Mr. Thomas Edwards his Gangren, or book intituled, The second part of Gangrena. Wherein, amongst others, he hath abused and belied Mr. John Lanceter, calling him pedler, and saying, that he opened the whole book of Ezra, at a privat meeting in stead of opening his pack, which is proved false, and other things also. So that in consideration of the particulars, judicious men may well conceive the cause of his Gangren to be his blind ignorance of the truth, and his mad malice against the wel-affected conscientious people. Published according to order.</title>
+                  <author>Lanseter, John.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the yeare. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Lanseter, who has signed page [2].</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Annotation on Thomason copy: "Sept: 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edwards, Thomas, 1599-1647. --  Gangræna.</term>
+               <term>Christian sects --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159887:1" rendition="simple:additions"/>
+            <p>Lanſeters Lance, FOR Edwards'es Gangrene: OR,</p>
+            <p>A ripping up, and laying open ſome rotten, putrified, corrupt, ſtinking Matter in Mr. <hi>Thomas Edwards</hi> his <hi>Gangren,</hi> or book intituled, <hi>The ſecond part of Gangrena.</hi>
+            </p>
+            <p>Wherein, amongſt others, he hath abuſed and belied Mr. <hi>John Lanceter,</hi> calling him Pedler, and ſaying, that he opened the whole book of <hi>Ezra</hi> at a privat meeting in ſtead of opening his Pack, which is proved falſe, and other things alſo.</p>
+            <p>So that in conſideration of the particulars, judicious men may well conceive the cauſe of his <hi>Gangren</hi> to be his blind igno<g ref="char:EOLhyphen"/>rance of the truth, and his mad malice againſt the wel-affected conſcientious people.</p>
+            <q>
+               <bibl>
+                  <hi>NEHEM. 6.8.</hi>
+               </bibl>
+               <p>Then I ſent unto him, ſaying, There are no ſuch things done as thou ſayeſt, but thou faineſt them out of thine own heart.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2 TIM. 2.16.17.</hi>
+               </bibl>
+               <p>Shun prophane and vain bablings: for they will increaſe unto more ungodlineſſe, and their word will eate as doth a Canker, [or, Gan<g ref="char:EOLhyphen"/>gren.]</p>
+            </q>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare, 1646.</p>
+         </div>
+         <div type="rebuttal">
+            <pb facs="tcp:159887:2"/>
+            <head>A little Crum for Mr. <hi>Cranford,</hi> the Licencer of Mr. <hi>Edwards'es</hi> Gangren.</head>
+            <p>Mr. <hi>Cranford to the</hi> Reader, expreſſeth thus,</p>
+            <q>
+               <p>Reader, thou art preſented with the ſecond part of <hi>Gangrena,</hi> decla<g ref="char:EOLhyphen"/>ring ſome other (not infirmities of the Saints, as ſome men call them, but) abominations of men of corrupt minds, reprobate con<g ref="char:EOLhyphen"/>cerning the faith.</p>
+            </q>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p n="1">1. Obſerve here, how forward Mr. <hi>Cranford</hi> is to give credit to whatſoever Mr. <hi>Edwards</hi> ſpeaks, be it falſe or true, as if Mr. <hi>Edwards</hi> had purchaſed Mr. <hi>Cranfords</hi> good word by a gift, thereby making his eyes blind; <hi>for a gift will blind the eyes of the wiſe.</hi>
+               </p>
+               <p n="2">2. Obſerve Mr. <hi>Cranfords</hi> judgement of privat meetings, to pray and preach, and to conferre one with another; it ſeems, they are abominations (in Mr. <hi>Cranfords</hi> opinion) amongſt the reſt.</p>
+               <p n="3">3. Obſerve his ungrounded harſh cenſuring of ſuch men as doe ſuch things, that they are Reprobate concerning the faith. But where is Mr. <hi>Cranfords</hi> charity all this while, which ſhould teach him, <hi>To judge nothing before the time.</hi>
+               </p>
+               <closer>
+                  <signed>John Lanſeter.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:159887:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen Mr. <hi>Thomas Edwards</hi> his Book againſt <hi>Indepen<g ref="char:EOLhyphen"/>dencie</hi> and <hi>Tolera<g ref="char:EOLhyphen"/>tion,</hi> came forth, a<g ref="char:EOLhyphen"/>bout foure yeares a<g ref="char:EOLhyphen"/>goe, O what boaſting there was then among the Prelaticall par<g ref="char:EOLhyphen"/>ty, and Temporizers, as if the day had been their own! But when the woman came and ſtrook the naile of <hi>Independen<g ref="char:EOLhyphen"/>cy</hi> into the head of their <hi>Siſera,</hi> with the Hammer of Gods holy word; then their ſport was ſpoyled and quaſht, the ef<g ref="char:EOLhyphen"/>fects whereof appeareth: for ſince that time he could never ſet forth any thing but
+<pb facs="tcp:159887:3"/>
+               <hi>Gangrena,</hi> or ſuch like ſtuffe (as his <hi>An<g ref="char:EOLhyphen"/>tipologia</hi> before it, which the ſame party anſwered, &amp; preſented as a new-years gift, that he might break off his old ſins, &amp;c.) And what is <hi>Gangrena,</hi> (or the <hi>Gan<g ref="char:EOLhyphen"/>gren?</hi>) Jt is a putrified, rotten, dead, and inſenſible ſoare, whoſe nature is to fret, to the mortifying of that member that hath it growing upon him. Therefore is that which he produceth, rightly called by him <hi>Gan<g ref="char:EOLhyphen"/>grena:</hi> for the ripping up and opening of which, this <hi>Lance</hi> was made, whereby the Chriſtian Reader may ſee that the bitter effects of perſecution (or want of publick toleration of the true Religion) cauſeth nothing but corruption and putrifaction, tending to utter deſtruction. But happy is he that is forewarned by other mens harms.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:159887:3"/>
+            <head>THE Introduction.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S the nature of a Gangren is to ſpread it ſelfe to the endangering of the body; even ſo is it with Mr. <hi>Edwards</hi> his Gangren: (which endan<g ref="char:EOLhyphen"/>gereth both his body and ſoule, and others alſo) for he himſelfe acknowledgeth in his preface that this his ſecond part is of the ſame nature, and kind with Gangrene, and I think herein the man ſaith true, though all is not true which he ſpeakes or writes; for if it were ſo, as it is not, then he would be that which he is not, as may ap<g ref="char:EOLhyphen"/>peare by this following relation.</p>
+            <p>For this ſecond part of his Gangren coming to the hands of Mr. <hi>Iohn Lanſeter,</hi> who peruſing the ſame found it to be a booke of tales, not ſo true, as new and amongſt the reſt, he found a let<g ref="char:EOLhyphen"/>ter, dated from <hi>Clare</hi> in <hi>Suffolk</hi> March 30. 1646. but without the name of the party that ſent it, even as almoſt all of his letters are, which I have ground to ſuſpect to be lying relatio<g ref="char:cmbAbbrStroke">̄</g>s, as this is. Which, ſaith M. <hi>Edwards,</hi> is a true Copy of a letter written from a worthy and godly Miniſter in <hi>Suffolk,</hi> in the name, and by the conſent and agreement of other Miniſters of the County at a meeting of theirs, and ſent up by the hands of a godly Miniſter in 
+<pb facs="tcp:159887:4"/>
+thoſe parts, who delivered it to me;</p>
+            <p>After ſome tydings, the letter ſaith.</p>
+            <p>This bearer can likewiſe tell you ſomwhat of Mr. <hi>Archer</hi> of <hi>Halsteed:</hi> Alſo of one <hi>Lanſiſter</hi> of <hi>Bury,</hi> a Pedlar, and of his o<g ref="char:EOLhyphen"/>pening the whole book of <hi>Ezra</hi> at a private meeting, in ſtead of opening his pack, &amp; of the prayer that followed his Exerciſe, &amp;c. It would be loſt labor for me to make a further relation by wri<g ref="char:EOLhyphen"/>ting of theſe things, ſeeing you ſhal receive the truth morefully by word of mouth, and by a faithful relater. After the letter he ſaith;</p>
+            <p>Upon conference with the Miniſter who brought up this Letter, he related theſe following paſſages to me, and I writ them preſently as he ſpake them. One <hi>Lanſiſter,</hi> in a private meeting at <hi>Bury,</hi> condemned all the Miniſters of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> for the Sanballats and Tobiahs of this time, that hindred the building of the Temple, reſembling himſelfe, and the Secta<g ref="char:EOLhyphen"/>ries to thoſe who would build the Temple; but it was withſtood by the Miniſters, who hindred it: At that meeting there was a plaine godly man, a ſolid old Chriſtian of Maſter <hi>Faircloths</hi> Con<g ref="char:EOLhyphen"/>gregation who oppoſed him, and God was ſo mightily with him, that it turned to the ſhame and reproach of this <hi>Lanſiſter,</hi> and thoſe who adher'd to him:</p>
+            <p>This being ſo in Mr. <hi>Edwards'es</hi> book, Mr. <hi>Lanſeter</hi> thought it meet to cleare himſelfe as publikly as he had aſperſed him, yet determined firſt to go to Mr. <hi>Edwards</hi> to ſpeake unto him about this in a peaceble way, which Hee did accordingly, before he went out of <hi>London</hi> upon <hi>June</hi> the 29. and tooke Mr. <hi>Edwards</hi> his book with him; who coming to Mr. <hi>Edwards</hi> his houſe, and a friend or two more with him to be as Teſtimonies, Hee asked him ſaying: Sir, doe you know mee? No, ſaith Mr. <hi>Edwards,</hi> I doe not know you; Sir (ſaith hee) my Name is <hi>Lanſeter,</hi> and I came from <hi>Bury,</hi> and you have men<g ref="char:EOLhyphen"/>tioned me in your book; I have ſo, ſaith <hi>Edwards:</hi> Sir, ſaith <hi>Lanſeter,</hi> do you know that thoſe things are truths which you have written here of me? They are none of mine ſaith <hi>Edwards</hi> but the relation of others.</p>
+            <p>
+               <hi>Lanſeter:</hi> Thats all one, ſeeing you are the divulger thereof, and this book is yours: Sir, ſaith <hi>Lanſeter,</hi> what if theſe things be proved falſe: how then?</p>
+            <p>
+               <pb facs="tcp:159887:4"/>Saith <hi>Edwards,</hi> it will not lye upon me, but upon thoſe from whom I had the relation: Sir, ſaith <hi>Lanſeter</hi> I pray you tell me their names. I will ſend, ſaith <hi>Edwards,</hi> firſt to thoſe from whom I had the relation, and I believe that they are able to make it good. well, ſaith Mr. <hi>Lanſeter,</hi> I pray you tell me their names, or ſhew me the letter; I know not where to finde it, ſaith <hi>Edwards,</hi> but I will (when I have time) look for it.</p>
+            <p>Sir, ſaith Mr. <hi>Lanſeter,</hi> I am able to prove that there were not ſuch things as you have related here.</p>
+            <p>It may be, ſaith <hi>Edwards,</hi> you are not the man; Then it was teſtified that there was no ſuch name in <hi>Bury,</hi> beſide him, and therefore he was the man that they meant. Moreover, (ſaith one preſent) Mr. <hi>Edwards,</hi> if one ſhould write falſe things of you, and then ſay he did not mean you, he meant another, would that excuſe him? and if he be not the man, who is?</p>
+            <p>Then, ſaith Mr. <hi>Edwards</hi> No, it may be you are not the man, neither is your name ſo, but you come in his name; for I have been ſerved ſo by divers before now? Saith Mr. <hi>Lanceter:</hi> Sir it may be you have: but my name is <hi>Lanceter,</hi> and I dwell in <hi>Bu<g ref="char:EOLhyphen"/>ry,</hi> and I am the man, and there is no other of that name;</p>
+            <p>How ſhall I know that? (ſaith <hi>Edwards:</hi>) another that ſtood by, ſaid, I know the man, and his name is <hi>Lanſeter,</hi> and he dwels in <hi>Bury,</hi> and moreover I know the man to be an honeſt man, and he tels you his name, but you have ſet no name to the relation, and I have ground to believe that which Mr. <hi>Lanceter</hi> ſaith is true; but therefore in the meane while your letter that hath no name, will go under the notion of a Libel.</p>
+            <p>You ſay here, I am a pedler. Its well known I am no pedler, but I ſerved to my Maſter a <hi>Mercer</hi> 11. years and a halfe, and do keep ſhop in <hi>Bury;</hi> but let that paſſe, ſaith <hi>Lanceter:</hi> you ſay that I opened the wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l book of <hi>Ezra</hi> at a private meeting, in ſtead of opening my pack; Sir this is untrue alſo: as thoſe that were there preſent can juſtifie.</p>
+            <p>Saith one by, what a baſe abuſe is this, that you ſhould call him pedlar in ſuch a diſgraceful manner? [I know him to be a Shop<g ref="char:EOLhyphen"/>keeper in <hi>Bury;</hi>] And to ſay he opened the whole book of <hi>Ezra</hi> at a private meeting in ſtead of opening his pack, what ſhould his pack do at the private meeting?</p>
+            <p>
+               <pb facs="tcp:159887:5"/>Then ſaid <hi>Lanſeter,</hi> you ſay that I condemned all the Miniſters of the Church of <hi>England</hi> for the Sanballats and Tobiaſes of this time: Sir, I did not, this is falſe alſo: but ſuppoſe (ſaith <hi>Lan<g ref="char:EOLhyphen"/>ſeter</hi>) that I had; what evil had I done?</p>
+            <p>Then you had done very wickedly (ſaith <hi>Edw.</hi>) &amp; deſerved to be called in queſtion for it, and its the Sectaries that hinder refor<g ref="char:EOLhyphen"/>mation, and not the Miniſters of the Church of <hi>England.</hi>
+            </p>
+            <p>Saith another that ſtood by: what was Sanballet and Tobias? were they not hinderers of the bleſſed work? And what are the Miniſters of the church of <hi>England,</hi> are they not hinderers alſo of the bleſſed work of reformation? And had Sanballet and Tobias any calling? And what calling have theſe, any at all? yea, ſaith <hi>Edwards,</hi> that they have, You muſt go to Roome for it then, ſaith the party. No not ſo, ſaith <hi>Edwards:</hi> yea, but you muſt, ſaith the party, or elſe you will have no calling at all; did you ever read Mr. <hi>Samuel Rutherfords</hi> book, there he fetcheth his Church and miniſtry from Rome: Then <hi>Edwards</hi> refuſed to reaſon with him about it. Neither have you ſpeld my name right; for it ſhould not be <hi>Lanſiſter,</hi> but <hi>Lanſeter.</hi>
+            </p>
+            <p>
+               <hi>Lanſ.</hi> If theſe things which you have here related, be falſe, which I am able to prove to be ſo, I pray you vindicate me in your next fruits that you ſet forth. But Mr. <hi>Edwards</hi> would not aſſent unto that, then ſaid one by to Mr. <hi>Lanſeter:</hi> Mr. <hi>Lanſeter</hi> ſeeing that Mr. <hi>Edwards</hi> will not vindicate you in his next fruits upon your proving the relations to him to be falſe, which is a very reaſonable requeſt of yours; Now you know what you have to do, even to publiſh your own vindication to the world, as publikly as he hath caſt aſperſions upon you.</p>
+            <p>After this Mr. <hi>Lanſeter</hi> went into his own Country againe, &amp; ſent up his vindication, &amp; the obſervations that he raiſed from ſome part of the firſt Chapters of <hi>Ezra,</hi> at a private meeting, that ſo reaſonable men may judge whether the things therein are truth or no: Then ſome of his friends went againe on the 27. of <hi>July</hi> to Mr. <hi>Edwards,</hi> to know his reſolution whe<g ref="char:EOLhyphen"/>ther he would deliver up the names of the parties from whom he had the relation, and the name of the meſſenger that brought it? but in ſtead of doing it, he ſhewed himſelfe agrieved, that the party demanding it came with 2. or 3. witneſſes, and fell a rayl<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:159887:5"/>
+on them ſaying, you bring here 2. or 3. witneſſes, I know your way of lying. Then ſaid the party, Tax us if you can with lying in the leaſt, yea, in the leaſt, with any one lye, if you can: Then ſaith he, I deſire to talk no more with you, nor to have any thing to do with you, you may be gone, I will not have any thing to do with you, nor do I deſire to meddle any more with you. But ſaith another to Mr. <hi>Edwards:</hi> we will have to do with you as a lyer and a ſlanderer.</p>
+            <p>Now here followeth the ſubſtance of what Mr. <hi>Lanſeter</hi> ſpake from <hi>Ezra</hi> Chap. 1. verſe 1. at the private meeting of ho<g ref="char:EOLhyphen"/>neſt men in <hi>Bury,</hi> about the begining of march laſt 1645. which was written by Mr. <hi>Lanſeter</hi> himſelfe, and ſent up to ſome of his friends in <hi>London,</hi> who now have thought it meet to ſet it forth to the view of the world, that ſo the well affected may judge of it, and ſee if it deſerve thoſe aſperſions, and cenſures which Mr. <hi>Edwards</hi> hath caſt upon it in his ſecond part of Gangrena.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159887:6"/>
+            <head>The ſubſtance of what was ſpoken by me (JOHN LANSETER) at a meeting of honeſt men in BURY, about the beginning of March laſt, 1646.</head>
+            <p>
+               <seg rend="decorInit">A</seg>T our firſt meeting in the morning, when there were about twenty come toge<g ref="char:EOLhyphen"/>ther, after ſome diſcourſe among us, thoſe men who had appointed the day, made the motion to begin the work that they came to doe, to which I anſwered on this wiſe, and ſaid, Friends, I was invited to come this day among you, and I am come; but I deſire to acquaint you what my end is, namely this, I cannot joyn with you in this duty, to keep it as a day of humiliation; for I have had very little warning: but I can joyn with you in prayer, judging you godly men; but you may (according to your purpoſes) goe on in the duty, and I not be prejudiciall to you, To which they agreed, and then queſtioned among themſelves who ſhould be<g ref="char:EOLhyphen"/>gin, and agreed upon it to perſwade me to begin. To which I anſwered, and ſaid, Friends, I think it not convenient for me, the duty and day being appointed by you, and I being different from you in ſome things, I think it were fit for ſome of you to be<g ref="char:EOLhyphen"/>gin. But they held to their agreement, to perſwade me. Then I ſaw it was their earneſt deſire, and ſo I did apprehend it to be a call of God, and therefore I demanded from them, What they would have me do? and whether they would have me read any part of the Scripture, or go on in prayer without reading? To which they made anſwer, They thought it very fit to read a por<g ref="char:EOLhyphen"/>tion of Scripture: For (ſaith one) it may be God hath made known ſomething to this our friend, which hee hath not done to 
+<pb facs="tcp:159887:6"/>
+us, and we ought to be willing to learn from any by whom God will teach us. Then I asked if we ſhould deſire a bleſſing upon the word? to which they anſwered, that it was a fitting thing. Then I propounded this to them, that I deſired, that if there were any thing ſpoken that day contrary to the Rule, it might freely be objected againſt in love, that it might be cleared; and they agreed thereunto, and liked the motion very well.</p>
+            <p>Then we joyned together, and ſought God for a bleſſing up<g ref="char:EOLhyphen"/>on our comming together, and that he would give us to under<g ref="char:EOLhyphen"/>ſtand his minde in his word. And after we had ſo done, then</p>
+            <p>I opened the Bible, and read the firſt Chapter of <hi>Ezra,</hi> which containeth in it,</p>
+            <p n="1">1. The occaſion of King <hi>Cyrus</hi> his proclamation, <hi>That the word of the Lord by the mouth of Jeremiah might be fulfilled,</hi> in the 29. of <hi>Jeremiah</hi> the 10. verſe. <hi>For thus ſaith the Lord, that after ſea<g ref="char:EOLhyphen"/>venty yeares be accompliſhed at Babylon, I will viſit you, and per<g ref="char:EOLhyphen"/>form my good word to you, and cauſe you to return from this place.</hi>
+            </p>
+            <p n="2">2. The Proclamation it ſelfe, <hi>Thus ſaith Cyrus, King of Per<g ref="char:EOLhyphen"/>ſia, Who is there among you of all his people, his God be with him, let him goe up to Jeruſalem which is in Judah, and build the Houſe of the Lord God, he is the God which is in Jeruſalem.</hi>
+            </p>
+            <p n="3">3. An exhortaion to the people where theſe Jewes dwelt to help them with ſupplies for their <hi>journey to Jeruſalem.</hi>
+            </p>
+            <p n="4">4. The effects that were wrought by the proclamation and exhortation, <hi>Then roſe up the chiefe of the Fathers of Judah and Benjamin, and the Prieſts and Levits, with all thoſe whoſe ſpirit God had raiſed to goe up to build the houſe of the Lord which is at Jeruſalem. Then all that were about them, ſtrengthened their hands with ſuch ſupplies as they were exhorted unto by the King.</hi>
+            </p>
+            <p n="5">5. The <hi>concurrence</hi> of the King with them, he brought forth <hi>the veſſels of the houſe of the Lord, which Nebuchadnezzar had put in the Houſe of his God.</hi>
+            </p>
+            <p n="1">1. Here is to be noted the great care of God over his people, not to let them lie any longer in captivity then the appointed time, 70. yeares. The word of comfort he uttered to his people, it was both ſpoken and written before, that ſo they ſhould not faint under Gods corrections, but at the end they ſhould be de<g ref="char:EOLhyphen"/>livered: <hi>For the wed of the wicked ſhall not alway lie upon the lot of
+<pb facs="tcp:159887:7"/>
+the righteous, leſt they ſhould put forth their hands to iniquity.</hi> Now was the time indeed that God did as is ſaid in the 40. of <hi>Iſaiah,</hi> verſe 1. <hi>Comfort ye my people, and ſpeak comfortably to Jeruſalem, and tell her her warfare is paſt, &amp;c.</hi>
+            </p>
+            <p n="2">2. Obſerve the way of Gods working deliverance for them, it was by over-powering the heart of <hi>Cyrus,</hi> a heathen King, to give them liberty. Sometimes God will make uſe of inſtru<g ref="char:EOLhyphen"/>ments to bring to paſſe his own deſignes, yet not out of any re<g ref="char:EOLhyphen"/>all love he beares to them, but out of love to his people.</p>
+            <p n="3">3. Obſerve alſo the noble frame of ſpirit that was in a great part of the people of God, that they (with <hi>Paul</hi>) did not conſult with fleſh and blood, but were obedient to the will of God, and <hi>roſe up preſently,</hi> according to <hi>Eccles.</hi> 9.10. <hi>What thy hand finds to doe, doe it with all thy might.</hi>
+            </p>
+            <p n="4">4. Obſerve what great incouragement they had by the King, and by the people.</p>
+            <p>Firſt, by the King two wayes: 1. Hee exhorted others to help them: and 2. He himſelfe delivered out to them the veſſels of the Houſe of the Lord, which had been carried to <hi>Babylon,</hi> (which if they had been deſtroyed, and the people to make all new) it might have been a long time before they ſhould have been in a fit poſture to worſhip God. And this was great encou<g ref="char:EOLhyphen"/>ragement to the people.</p>
+            <p>
+               <hi>Queſt.</hi> But what was the reaſon that God gave power into the hands of <hi>Nebuchadnezzar,</hi> to carry them away into <hi>Baby<g ref="char:EOLhyphen"/>lon;</hi> and the veſſels of the Houſe of the Lord, to put them into the hands of his God, and to uſe the people ſo hardly as they were uſed.</p>
+            <p n="2">2. <hi>Queſt.</hi> How did they carry themſelves towards God in <hi>Babylon.</hi>
+            </p>
+            <p n="3">3. What was Gods end in bringing them out of <hi>Babylon</hi> a<g ref="char:EOLhyphen"/>gaine.</p>
+            <p n="1">1. <hi>Anſw.</hi> To the 1. I anſwer, it was for their ſins, and rebel<g ref="char:EOLhyphen"/>lions againſt God; for poluting the houſe of the Lord which he had hallowed in <hi>Jeruſalem,</hi> and for abuſſing the <hi>Prophets</hi> that came unto them, and for diſpiſing their words: therefore he brought upon them the King of the <hi>Chaldees,</hi> 2 <hi>Chron.,</hi> 6. and 14.15.16.17. <hi>and they burnt the houſe of the Lord, ſee vers.</hi>
+               <pb facs="tcp:159887:7"/>
+19. <hi>and they became ſervants to him, and his Sons, nay ſlaves,</hi> a ſad change for them to be carried from a place of peace, to a place of ſorrow, from a place of freedom to a place of thraldom, ſee the 1 of <hi>Lamenta.</hi> the 2. verſ. <hi>ſhe weepeth ſore in the night,</hi> and ſo through the Chapter we may ſee how God chaſtiſeth her.</p>
+            <p>
+               <hi>Anſw. to</hi> 2. <hi>Queſt.</hi> She carried her ſelfe obediently, humbly, and boare patiently the hand of God, ſee <hi>Jer.</hi> 39 5.6 7. and <hi>Lament.</hi> 3 from 22. to 29. verſe, and ſeverall places in that book; but though they found no reſt they waited for his ſalva<g ref="char:EOLhyphen"/>tion,</p>
+            <p>
+               <hi>Anſw. to</hi> 3. <hi>Quest.</hi> What was Gods end in bringing them out of <hi>Babilon</hi> againe at the appointed time.</p>
+            <p n="1">1. It was to perform his faithfulneſſe to his people; for ſo he had promiſed after 70. years was fulfilled to bring them back againe.</p>
+            <p n="2">2. He brought them out for this end that they might build him an houſe in the place appointed, that ſo he might manifeſt himſelfe unto his people, by communicating ſpeciall bleſſings unto them: And God had declared his love to <hi>Zion;</hi> how that he made it his peculiar habitation where he ſaid he would dwell, <hi>Pſal.</hi> 132.13.14.15. In <hi>Moſes</hi> dayes after God had deli<g ref="char:EOLhyphen"/>vered his people out of <hi>Egypt</hi> the Lord deſired them to build him a Tabernacle, and he promiſed to dwell with his people, and ſo he did, and his glory reſted upon his Tabernacle, and after that, they were ſetled in <hi>Canaan,</hi> God commanded them to build his Temple, and it was built in <hi>Solomans</hi> dayes, and God manifeſt<g ref="char:EOLhyphen"/>ed his glory therein; And now is the time that God deſireth that his ſpirituall houſe ſhould be built that he might manifeſt his glory to the ſons of men that love his name and take hold of his Covenant and joyn themſelves unto him, ſuch as theſe indeed are the onely meet ſubjects to build him a houſe; Note hear how that none were to build this holy houſe in <hi>Ezraes</hi> time but ſuch whoſe ſpirits God had raiſed up to go up even as it was in the building of the firſt houſe ſpoken of in the 35. of <hi>Exod.</hi> for after the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e came others, (<hi>Ezra</hi> 4.1.2.3. verſes) and ſuch as profeſſed they were ſeekers of their God as they did, and ſacrificers to their God as they were a long time: yet they were
+<pb facs="tcp:159887:8"/>
+not admitted, And becauſe they could not be received, therefore they ſought with all their might and pollicie to weaken their hands, and by falſe informations prevailed for a time untill the Lord ſtirred up <hi>Haggay</hi> and <hi>Zecheriah</hi> to ſpeake prophetical<g ref="char:EOLhyphen"/>ly unto them, and to encourage them in the work, and then they went on in it, and <hi>Ezra</hi> bleſſed God (in the 7. <hi>Chap.</hi> 1.27.) for the faver of the King towards him in the buſineſſe; And <hi>Dari<g ref="char:EOLhyphen"/>us</hi> alſo gave free toleration (in the 6. <hi>Chap.</hi> 1.7. verſe,) that the houſe of God might be built in his place, and it was finiſhed within foure yeares, (ſe <hi>Haggai.</hi> 1.1. compared with the 6. of <hi>Ezra</hi> 1.15. verſe,) and after it was finiſhed, there was joy, ſe verſe 16. and non were admitted to the paſſeover but ſuch as had ſeperated themſelves unto them from the filthineſſe of the heathen of the Land to ſeek the Lord God did eat, ſee <hi>Ezra</hi> 6.21.22. Now let us conſider of theſe things, and call them over, and exa<g ref="char:EOLhyphen"/>mine, whether we may not now leave <hi>Jſrael,</hi> &amp; rellatively co<g ref="char:cmbAbbrStroke">̄</g>pare our ſelves, and our Eſtate that we have been in of late under <hi>An<g ref="char:EOLhyphen"/>tichriſtian</hi> darkneſſe to be as <hi>Jſrael</hi> was in their Captivity? and whether it be not now with us, as it was with them in their coming out?</p>
+            <p>Firſt, Let us conſider and examine whether we were <hi>Jſrael<g ref="char:EOLhyphen"/>lites</hi> before, or whether we were <hi>Heathens,</hi> and whether we may not rather go under the name of Chriſtians in apoſtaſie, ac<g ref="char:EOLhyphen"/>cording to the tenor of the Scriptures, and are now onely requi<g ref="char:EOLhyphen"/>red to ſeek out the good old way and return it.</p>
+            <p n="2">2. <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Examine whether we have been in Captivity or no? have we not bin in ſpirituall <hi>Babylon:</hi> which hath bin worſe then temporall <hi>Babylon</hi> was to <hi>Jſrael?</hi> have we not been de<g ref="char:EOLhyphen"/>prived of ſpirituall priviledges? have not our enemyes been the chiefe? have they not made us to cry by their heavy burdens? have they not made our lives bitter unto us? have they not giv<g ref="char:EOLhyphen"/>en us gall to drinke? I mean their filthy tradiſſions, without which we could ſcarce injoy one Ordinance, which thing was to our griefe.</p>
+            <p n="3">3. <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Examine whether God hath not now by his pro<g ref="char:EOLhyphen"/>vidence ſo ordered it, and wrought in the hearts of men in au<g ref="char:EOLhyphen"/>thority to proclame liberty for us to get out of that ſlavery, by taking away theſe heavy burdens, and by uſing meanes to prevent 
+<pb facs="tcp:159887:8"/>
+them, who would impoſe the like, or worſe burdens upon us; for which liberty we are bound to be thankfull, and to improve it to the beſt advantage for the glory of God.</p>
+            <p n="4">4. <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Examine whether it be not Gods end, in working theſe for us, that now we ſhould build him an houſe for himſelfe to dwell in? and whether it be not his deſire to have a viſible houſe upon earth now in the time of the Goſpel as in the time of the law? if not, wherefore did Chriſt himſelfe and by his A<g ref="char:EOLhyphen"/>poſtles endeavour by their preaching and working miracles to bring men and women to believe, and then to build them, [or to build of them ſeverall ſpirituall houſes or Churches] that they might be fit habitations for himſelfe to dwell in, to communi<g ref="char:EOLhyphen"/>cate unto them ſpeciall bleſſings, not onely the gleanings which others may have, but even handfulls of refreſhments, (<hi>Ruth</hi> the 2. and 16.)</p>
+            <p n="5">5. Conſider whether God require any other now to build him an houſe, but ſuch as he hath made capable. I mean ſuch which the ſpirit of God and the word which is the ſword of the ſpirit, have had a worke upon to fit and ſquare them for the building, even ſuch as God hath made willing, and whether God will ax<g ref="char:EOLhyphen"/>cept of any others in the work? Chriſt ſent his Diſciples to ga<g ref="char:EOLhyphen"/>ther in ſuch as might be found fit for his Kingdome, and ſuch as Chriſt embraced to be of his Kingdome the Holy Ghoſt is plea<g ref="char:EOLhyphen"/>ſed to call them Saints, precious, a peculiar people, a choſen Generation, a royall prieſthood, a ſpouſe of Chriſts, Children of the moſt high, heiers of the Kingdome, a Temple, a City in whom God the Father will dwell, and in whom Chriſt will take pleaſure, and in whom the ſpirit will abide, and whom the ſpi<g ref="char:EOLhyphen"/>rit will lead, direct, and comfort.</p>
+            <p>Now this I would fayne know, whether any are fit for ſuch a work of building an houſe for God to dwell in, but ſuch as we may warrantably judge to be Saints?</p>
+            <p>
+               <hi>Obj.</hi> You will anſwer (it may be) that the Church of <hi>Corinth</hi> was not all ſuch meterialls, and <hi>Symon Magus</hi> was not ſuch a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne.</p>
+            <p>
+               <hi>Anſw.</hi> I anſwer to this, and will affirm it, and prove it, that neither the Church of Corinth, nor <hi>Symon Magus,</hi> nor any mem<g ref="char:EOLhyphen"/>bers of any of the Churches mentioned in the ould or new Te<g ref="char:EOLhyphen"/>ſtament were admitted members, but were firſt in charity (and
+<pb facs="tcp:159887:9"/>
+that grounded upon a rule out of the word) judged to be Saints, and fit materialls. Therefore now look into the Pariſh Churches, and ſee if it were ſo in the conſtytution of them, I pray compare things together, and ſee if you can find the Church of Chriſt, and the Pariſh Churches agree, either in their conſtitution, or in their doctrine, or in their diſcipline; now if you find a ſuita<g ref="char:EOLhyphen"/>bleneſſe between them in all this, then well and good, but if you finde not the firſt nor the laſt, then it is bad, and ſad, And conſi<g ref="char:EOLhyphen"/>der whether there be any hope of bringing the Pariſh Churches into a rightpoſture, according to the rule, or whether their be not clear reſemblances of upholding her ſtill in her foun<g ref="char:EOLhyphen"/>dation, though there may be amendment in her diſcipline.</p>
+            <p n="6">6. Conſider whether God doe not require his people now to be active in this buſineſſe; and that from theſe places, <hi>Acts</hi> 9.26. and 1 <hi>Pet.</hi> 2.5. and 2 <hi>Cor.</hi> 6.17. 2 <hi>Cor.</hi> 8.5.</p>
+            <p>And conſider whether (after it hath pleaſed God to give his people to underſtand the way that he will be worſhipped in,) if that an agreement between them to walk in that way together, according to the rule of the Goſpel, be nor the formall cauſe of their being a Church; if it bee ſuch a number as that they are in a capacity of enjoying all ordinances, and of performing all duties? And I would fain know wherein lieth the evill of inga<g ref="char:EOLhyphen"/>ging my ſelf by covenant, to doe thoſe duties which God com<g ref="char:EOLhyphen"/>mands me in his word to doe, firſt, to himſelfe; ſecondly, to my brother. Take notice of this which <hi>Salomon</hi> ſaith, <hi>Prov.</hi> 10.29. <hi>The way of the Lord is ſtrength to the upright; but deſtruction ſhall be to the workers of iniquity.</hi>
+            </p>
+            <p>This is the ſubſtance of what I ſpake, and then according as I propounded before I began, ſo I did after I had done, that if there were any thing to be objected againſt, there was free liberty for any to ſpeak: and no man objected againſt any thing.</p>
+            <div type="aside">
+               <opener>
+                  <salute>Reader,</salute>
+               </opener>
+               <p>NOte that whereas Mr. <hi>Edward;</hi> hath ſet down, in his ſecond part of <hi>Gangrena,</hi> that at this meeting one of Mr. <hi>Farcloths</hi> congregation oppoſed Mr. <hi>Lanceter,</hi> and that God was ſo mighti<g ref="char:EOLhyphen"/>ly with him, that it turned to the ſhame and reproach of this <hi>Lanceter,</hi> and thoſe who adhered to him. This is very falſe; And
+<pb facs="tcp:159887:9" rendition="simple:additions"/>
+Mr. <hi>Lanceter</hi> ſpoke ſince with the two men of Mr. <hi>Faircloth</hi> congregation, whoſe teſtimonies concerning this matter, are ſuf<g ref="char:EOLhyphen"/>ficient to diſprove Mr. <hi>Edw.</hi> his relation in the ſight of the Sun; which teſtimonies taken before witneſſe, Mr. <hi>Lanceter</hi> hath alſo ſent in manner and form as followeth.</p>
+               <p>This 23. of <hi>June,</hi> 1646. one of the auditors of Mr. <hi>Faircloth</hi> ſaid to me before two witneſſes at <hi>Newmarket, that he had indeed ſpoke of thee Meeting to ſome of his friends, but he never ſaid to any man, that I opened the whole book of</hi> Ezra, <hi>or that he ſaid to any, that he did oppoſe me; for, ſaid he, I ſpake not a word to you, (nor did any man there in his hearing,) or that I compared the Miniſters of</hi> England <hi>to the</hi> Sanbalats <hi>and</hi> Tobiahs'es.</p>
+               <p>The other Auditor of Mr. <hi>Faircloths,</hi> on the 25. of <hi>June,</hi> ſaid before two men, to me, that <hi>he never ſpake word to any man of the meeting, neither did he oppoſe me; and I heard</hi> (ſaith he) <hi>nothing to be objected againſt.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Severall obſervations gathered from ſome obſervable expreſſions in Mr. <hi>Edwards</hi> book called, The ſecond part of <hi>Gangrena.</hi>
+               </head>
+               <p>The firſt expreſſion of Mr. <hi>Edwards</hi> in the beginning, is, <hi>A freſh and further diſcovery of the errors, hereſies, blaſphemies, and dangerous proceedings of the Sectaries of this time.</hi>
+               </p>
+               <p n="1">1. Obſerve Mr. <hi>Edw.</hi> his policie in beautifying his book in the beginning with ſuch high expreſſions as if hee would poſſeſſe men at the firſt ſight, that there was never the like heard of; and this occaſions the ſale of his book, amongſt the Sect of Antichri<g ref="char:EOLhyphen"/>ſtian Presbyterians.</p>
+               <p n="2">2. Obſerve how he goeth about to work in mens underſtan<g ref="char:EOLhyphen"/>dings, as if he were an infallible man, and holds no errors, but would cleare himſelfe of all, and lay all upon thoſe that diſſent from him.</p>
+               <p n="3">3. Obſerve how that Mr. <hi>Edwards</hi> hath alſo a ſtronger de<g ref="char:EOLhyphen"/>ſire to diſcover the weakneſſe of thoſe that are godly, then to diſ<g ref="char:EOLhyphen"/>cover the wickedneſſe and abominations of <hi>Drunkards,</hi> and <hi>Swearers,</hi> and <hi>Idolaters,</hi> and <hi>Superſtitious perſons,</hi> and of <hi>Wit<g ref="char:EOLhyphen"/>ches;</hi> and hee makes no mention of theſe, <hi>I</hi> marvell he hath not the Art to find out <hi>Witches!</hi> he hath other Arts.</p>
+               <p n="2">
+                  <pb facs="tcp:159887:10"/>2. Mr. <hi>Edwards</hi> to the Reader ſpeaking of Mr. <hi>Goodwin,</hi> calls him, <hi>A hairy, rough, wild, red man, an uncircumciſed Philiſtin, GOLIAH GOODWIN.</hi>
+               </p>
+               <p n="1">1. Obſerve the ſtrength of the mans malice to one who is known to my ſelfe, and to a great part of the kingdome, to be a man of worth, a man of great parts, a man who hath held out more light to others, then many others have done, a man who hath given clearer teſtimony of his godlineſſe, then Mr. <hi>Edwards</hi> hath done, as far as <hi>I</hi> and many more can ſee for the preſent, yet ſee how Mr. <hi>Edwards</hi> is pleaſed to uſe him, even worſe then hee ought to uſe a heathen; ſee how he ſcoffes at his perſon, which I ſuppoſe all that know Mr. <hi>Goodwin</hi> and Mr. <hi>Edwards,</hi> will prefer Mr. <hi>Goodwin</hi> to be the comlier man.</p>
+               <p n="2">2. Obſerve how bold Mr. <hi>Edwards is,</hi> to take upon himſelfe to ſit in the room of God, to judge the heart of Mr. <hi>Goodwin,</hi> which none can nor ought to doe but God alone.</p>
+               <p n="3">3. <hi>I am confident</hi> (ſaith he) <hi>that among all the Presbyterian Miniſters and chiefe Members, who endeavoured and acted for that way ſince Presbyterians, the Sectaries cannot inſtance in one man like to hundreds and thouſands of their Sectaries, either for errors in judgement, or looſneſſe in life.</hi>
+               </p>
+               <p n="1">1. Obſerve his u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>grounded confidence in his own party, as if they were all without errors, and holy in their lives and conver<g ref="char:EOLhyphen"/>ſations, when as I on my own knowledge, and many more doe know, ſeveral Miniſters that are very looſe in their lives, and alto<g ref="char:EOLhyphen"/>gether unfit for that work, and yet hold ſtrongly to the Presby<g ref="char:EOLhyphen"/>terian way: and I ſuppoſe it were eaſie to find out in <hi>Suffolk</hi> and <hi>Norfolk</hi> another Century of <hi>Scandalous Miniſters.</hi>
+               </p>
+               <p n="2">2. Obſerve how he ſpeaks nothing by his own knowledge, but all by relation; and if all his relation prove like to this which he hath written of me, what will the man doe?</p>
+               <p n="3">3. Obſerve what it is that caſts the ſcale in this mans judge<g ref="char:EOLhyphen"/>ment, not the errors themſelves, but <hi>Independency</hi> or <hi>Presbyteria<g ref="char:EOLhyphen"/>niſme.</hi> If an <hi>Independent, Edwards</hi> will ſound his trumpet againſt him, though his error be never ſo ſmall. If a Presbyterian, then ſilence, all is born withall. Mark what a fit man this is to be a Judge!</p>
+               <p>Mr. <hi>Edwards</hi> ſaith thus, <hi>It is much againſt my genius and tem<g ref="char:EOLhyphen"/>per
+<pb facs="tcp:159887:10"/>
+to doe it</hi> (namely to bring mens names upon the ſtage) <hi>for na<g ref="char:EOLhyphen"/>turally</hi> (ſaith he) <hi>I do not love to offend any, or to contend with any man, but to comply and pleaſe all.</hi>
+               </p>
+               <p>Now mark the man in his carriage and firſt obſerve whether there be any reſemblance in his life and converſation that hee is of <hi>Pauls</hi> temper, <hi>to become all unto all, that he might gain ſome, to be weak with the weake, &amp;c.</hi> or whether it be not more clear, that the man is of a very bad temper, and complieth with men for his own ends, for profit and preferment.</p>
+               <p n="2">2. Obſerve and ſee whether he doe not plainly lye in this ex<g ref="char:EOLhyphen"/>preſſion; for it is evident that he uſes no means to comply with the Independent party, but all meanes to make them odious to the Parliament, and to the world.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Mr.</hi> Edwares <hi>in the 20 page.</hi>
+               </head>
+               <p>
+                  <hi>A true copie of a letter written to me by a worthy and godly Mi<g ref="char:EOLhyphen"/>niſter in Suffolke, in the name and by the conſent and agreement of other Miniſters of the County, at a meeting of theirs.</hi>
+               </p>
+               <p>Firſt, Obſerve, the thing was of great wayght and moment, and ſtood them in hand to look about them; for if this be ſuffer<g ref="char:EOLhyphen"/>ed, think they in time we ſhall loſe all our gayn, and ſuch as theſe will ſteale away our honour, therefore come on, let us conſent together, and give notice of this buſineſſe, to our <hi>Goliah,</hi> or to our <hi>ſtalking horſe,</hi> and by him ſhoote it abroad to the diſcou<g ref="char:EOLhyphen"/>raging of them in this way, if it be poſſible.</p>
+               <p>Secondly, Obſerve and take notice of this act of theirs, and ſee if it had not been their duty to have ſent to me, and ſo to have reproved me in a loving way, rather then to publiſh it at <hi>Gath,</hi> eſpecially ſeeing I was their neigbour, living in the ſame County, they might have come, or ſent unto me, to reprove me for my evill they would alledge againſt me, and I ſhould have taken it thankfully.</p>
+               <p>Thirdly, Obſerve from the letters it ſelfe, <hi>Worthy Sir, your Brethren in theſe parts deſire to pray ſo God for you, and for that courage he hath given you to encounter, &amp;c.</hi> See how they bolſter up the poor man in an evill way, and encourage him to goe on in ſuch a way as ſome of themſelves dare not go on in, (having (I hope) more grace, &amp; ſeeing further.) They acknowledge themſelvs his brethren; why? becauſe they are Presbyterians. And truly, it
+<pb facs="tcp:159887:11"/>
+appeares to me, that they are partakers of his evill deeds; and if this be not an evill deed, to be an incendiary to ſet the kingdome on fire, and to ſtir up man againſt man, then I am deceived.</p>
+               <p>He ſaith page 21. <hi>Of one Lanſiſter of Bury, a Pedlar, and of his openinn the whole book of</hi> Ezra <hi>at a privat meeting, in ſtead of ope<g ref="char:EOLhyphen"/>ning his pack, and of the prayer that followed his exerciſe, &amp;c.</hi> Mark theſe expreſſions, how wiſely they are ſet downe, and</p>
+               <p n="1">1. Obſerve they with a lie advance me in ſaying, <hi>I opened the whole book of Ezra,</hi> which I feare none of them are able to open in a moneths time, but I deſire to be thankfull for what <hi>I</hi> have received.</p>
+               <p n="2">2. Obſerve, <hi>I</hi> did it (ſay they) <hi>in ſtead of opening my packe. I</hi> would they had expreſſed a little further, and a little wiſer, Whe<g ref="char:EOLhyphen"/>ther they think it had been convenient for me, either to have brought all my ſhop of ware to the meeting? or my horſe loa<g ref="char:EOLhyphen"/>den, as <hi>I</hi> drive him to Market? Surely, it had been abſurd to have done either of them both. But ſee and</p>
+               <p n="3">3. Obſerve whether theſe expreſſions did not come from them as from men over-whelmed with grief, to think that ſuch a one as <hi>I</hi> am, ſhould according to the grace which is given me, open a portion of Scripture to the edification of the hearers.</p>
+               <p>Further, he ſaith, that I <hi>condemned all the Miniſters of England for the Sanballets and Tobiahs of this time, that hindered the buil<g ref="char:EOLhyphen"/>ding of the Temple, that I reſembled my ſelfe and the Sectaries to thoſe that would build the Temple. And there was a plain godly man, a ſolid old Chriſtian of Mr.</hi> Fairhlot<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>congregation, who op<g ref="char:EOLhyphen"/>poſed me, and God was ſo mightily with him, that it turned to the ſhame and reproach of me, and thoſe who adhered to me.</hi> Now let every rationall man conſider, and weigh-things; for in the firſt place, I deny that I opened the whole book of <hi>Eſra:</hi> 2. I deny that I once named <hi>Tobiah</hi> &amp; <hi>Sanballet:</hi> 3. I deny that there was any man that oppoſed me in any one thing that I ſpake either out of <hi>Ezra,</hi> or in prayer, and this I ſhall prove; and in all theſe things, I appeale to thoſe that heard me<note n="*" place="margin">See Mr. <hi>Faircloths</hi> 2 hearers vindication of <hi>I. Lanſe<g ref="char:EOLhyphen"/>ter.</hi>
+                  </note>. But as I ſaid before, let every man conſider and ſee whether it be not as probable, that the Prieſts of the Church of <hi>England</hi> are the hinderers as any o<g ref="char:EOLhyphen"/>ny other men in the kingdome.</p>
+               <p n="2">2. Obſerve and conſider, whether if profit and honour went
+<pb facs="tcp:159887:11"/>
+along with that way which theſe ſpeak ſo much againſt, whether it be not probable many of them would have been forward in it long agoe.</p>
+               <p>Mr. <hi>Edwards</hi> in the 179. page, ſaith, <hi>That we may ſee or learn what is like to become of them and of their way, and what their end will be, namely confuſion and deſolation, and if ever God ſpake by me</hi> (ſaith he) <hi>I am confident he will curſſe this Faction of Sectaries in England, and caſt them out as an abominable branch, me thinkes I ſee their day a coming and drawing neere.</hi> And in 180. page, <hi>I ſhall</hi> (ſaith he) <hi>towl the great Bell for the Sectaries Anabap, &amp;c. and hope ſhortly to ring it out, and to preach their funerall Sermon, and rejoyce at the breaking up of their Conventicles.</hi> Now conſider and</p>
+               <p n="1">1. Obſerve, the man is in good hope to ſee the rooting out of all thoſe that are for any way but his Presbytery way: hee hath not ſo much patience as <hi>Gamaliel, (Act.</hi> 5.38.39.) to wait, But he longs for their ruine.</p>
+               <p>Secondly, Obſerve how he builds his confidence upon a ſupoſition, Indeed, a meer ſupoſition (ſaith he If ever God ſpeake by me? truly I queſtion it) and ſo do many more: and I am perſwaded that the man will be fruſtrated of his expectations, and then I hope he will queſtion indeed, whether ever God ſpeake by him?</p>
+               <p>Thirdly, Obſerve how he hath beſpoke two offices, firſt, to ring the bell, out of which uſes to be matter of profit to the under Officer: ſee he is hungry after mony. Secondly, to preach their <hi>Funerall Sermon,</hi> which uſeth to be twenty ſhillings for a man of ſome ranke: but now, it being for ſo many in the Kingdome, and for ſome of great quallity too: he hopes to be rewarded, with as great a living as doctor <hi>Bur<g ref="char:EOLhyphen"/>ges</hi> hath, at which he ſeemes to envy.</p>
+               <p>Mr. <hi>Edwards</hi> in the 185. page, ſaith he, <hi>Independency is a faxion, becauſe all theſe following ſorts and ranks come into it.</hi>
+               </p>
+               <p n="1">1. <hi>Needy broken decayed men, who know not how to live.</hi>
+               </p>
+               <p n="2">2. <hi>Guilty, ſuſpicious, obnoxious men who have been, or are in the lurch, and in feare to be queſtioned: Independency being a Sanctuary where ſuch fly and be ſate</hi>
+               </p>
+               <p n="3">3. <hi>Ambitions, proud covetous men.</hi>
+               </p>
+               <p n="4">4. <hi>Libertines and loſe perſons who have a deſire to live in plea<g ref="char:EOLhyphen"/>ſure, and enjoy, their luſts, &amp;c.</hi>
+               </p>
+               <p n="1">
+                  <pb facs="tcp:159887:12"/>1. Obſerve how Mr. <hi>Edwards</hi> is conceited of his own new found way, newly trimed over, and therefore caſts dirt upon every way alſo, becauſe he would have all turne into him, to his crooked wayes, as in <hi>Prov.</hi> 2.12.15.</p>
+               <p n="2">2. Obſerve how he diſpiſeth poore and needy men, and is reſolved to keepe them out of his way, why? becauſe they have no fleece for him.</p>
+               <p n="3">3. Obſerve whether this man is not blind, for he cannot ſee the guilty, ſuſpitious, obnoxious perſons that are in his own way, let Mr. <hi>Edwards</hi> bring forth if he can, what <hi>Inde<g ref="char:EOLhyphen"/>pendent</hi> Church hath ever ſecured ſuch perſons from the law of the Land.</p>
+               <p n="4">4 Obſerve how the man contradicts himſelfe to ſay, <hi>proud, covetous perſons:</hi> For he ſaith in the ſame book that there is an <hi>Independant Miniſter that hath</hi> 50. <abbr>l.</abbr> 
+                  <hi>a yeare from</hi> 3. <hi>or</hi> 4. <hi>men, it ſeemes they are not covetous men.</hi>
+               </p>
+               <p n="5">5. Obſerve how the man miſtakes in his own expreſſion, to ſay they are <hi>Libertens and looſe perſons that deſire to injoy their lusts when as it is</hi> known they receive non but ſuch as either the whole Church or a great part know to be conciencious; And it is well known that if an <hi>Independent</hi> Church, caſt out any for ſome great office, the ſame parties can go to ſome pariſh Church in <hi>England,</hi> and never be queſtioned at all: Thus the <hi>Independents</hi> excremen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s becomes theſe <hi>Preſbyte<g ref="char:EOLhyphen"/>rians</hi> ornaments, Mr. <hi>Edwards</hi> in the 194. <hi>page,</hi> ſaith, <hi>that God will make them com (viz.) thoſe who are the Antitipes to thoſe Iews namely namely the S<gap reason="illegible" resp="#UOM" extent="6+ letters">
+                        <desc>••••••…</desc>
+                     </gap>s, Anabaptiſts, Independents, &amp;c. and worſhip before the feet of the Scots, and that God ſaith, I will adorne thee.</hi> (to wit) <hi>(the Scots) and thou ſhalt have victories over theſe enemyes, and thou ſhalt inrich thy ſelfe with their ſpoyles,</hi> and further he ſaith, <hi>O Church of Scotland, and all ye that are for reformation Presbyteriall, nouriſh your hopes and let not your hearts be troubled &amp;c.</hi>
+               </p>
+               <p n="1">1. Obſerve whether the man do not flatter with the <hi>Scots,</hi> and ſpeake more from Mr. <hi>Brightmans</hi> rela<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, then from his own ability, to make out the thing from the word</p>
+               <p n="2">2. Obſerve whether it do not appeare by Mr. <hi>Edwards</hi> expreſſions, that he doth what he can to inſence the <hi>Scots</hi> a<g ref="char:EOLhyphen"/>gainſt
+<pb facs="tcp:159887:12"/>
+the <hi>Parliament</hi> and <hi>Army,</hi> and againſt all in the King<g ref="char:EOLhyphen"/>dome, that cannot ſubmit to his yoake, and if ever the <hi>Scots</hi> ſhould do any wrong to <hi>England,</hi> (as I hope they will not) whether they may not (with us) ſay, <hi>Mr. Edwards incouraged them in it.</hi>
+               </p>
+               <p n="3">3. Obſerve how he exorts his own party, to nouriſh their hopes, (without giving any ground out of the word) Mr. <hi>Ed<g ref="char:EOLhyphen"/>wards</hi> in 198. page, ſaith <hi>in his</hi> 4. <hi>Corrolary Since then we ſee from all theſe errors, heriſes, blaſpheamous proceedings of the Sectaries, that Magistrates, Miniſters, and Maſters, other Chriſtian of Fami<g ref="char:EOLhyphen"/>lies, parents, &amp;c. have been a ſleepe, and two careleſſe, that ſo many teares have been both ſowed, &amp; are grown up to ſuch a head, that all the beaſts of the field come to devoure,</hi> (viz.) <hi>Hereticks, Sciſmeticks, (reſembled to Wolves and Foxes) entring, not ſpar<g ref="char:EOLhyphen"/>ing the flock &amp;c.</hi>
+               </p>
+               <p n="1">1. Obſerve whether he do not caſt a reproach upon the Parlia<g ref="char:EOLhyphen"/>ment, being she chief Magiſtracy of the Kingdome, by ſaying they have been <hi>aſleep.</hi>
+               </p>
+               <p n="2">2. Obſerve whether he doth not by this inſinuate into the Magiſtracy, to ſtir them up out of their <hi>ſleep</hi> (as he ſaith) to ſet about deſtroying and rooting out all thoſe that do diſſent from his (as he ſuppoſeth) infallible way.</p>
+               <p>Mr. <hi>Edwards</hi> in his 158. page, ſaith, <hi>The Sectaries are men of large conſcienceses, and have conſciences like Oſtriges ſtomachs, that can digeſt Iron,</hi> can beare with them that doe evill, <hi>or any thing that is evill, ſo it will promote the Catholick cauſe.</hi> Mark and</p>
+               <p n="1">1. Obſerve, how can this man poſſibly pluck out the moat out of his brothers eye, when a beam is in his own eye. And ſee how he goeth about to hide his own ſinne, by laying a large charge upon other men, and conſider whether Mr. <hi>Edwards,</hi> and them of his way, have not much larger conſciences then any of the <hi>In<g ref="char:EOLhyphen"/>dependent way</hi> &amp; can ſwallow, and digeſt that which the <hi>Indepen<g ref="char:EOLhyphen"/>dents cannot.</hi>
+               </p>
+               <p n="1">1. Whether it doth not appeare in this, that they have received <hi>Tythes</hi> ſo many yeares together, amounting to great ſummes of mony yearly, and not onely the tenth of the rent of Land, but of poore mens labour, and of the labour of their ſervants, and of the
+<pb facs="tcp:159887:13" rendition="simple:additions"/>
+labour of their cattell, and have done little or nothing for it, and yet can digeſt it well, and are alwayes like the <hi>Horſe-leach,</hi> cry<g ref="char:EOLhyphen"/>ing, <hi>Give, give;</hi> and <hi>if men put not into their mouthes, they prepare war againſt them.</hi>
+               </p>
+               <p n="2">2. Whether doth it nor appear (in this) that they are alwayes ready and in a fit poſture to act to act the decrees, and follow the directions of <hi>Councels</hi> and <hi>Synods,</hi> though they be contrary to the Rule of the Word; witneſſe former and preſent actings of theirs.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Poſt-ſcript.</head>
+            <p>
+               <hi>READER,</hi> note that Mr. <hi>Edwards</hi> in his Gangrene tels ma<g ref="char:EOLhyphen"/>ny tales of Gods judgments upon the Sectaries; I can tell ſtories alſo of the Sectaries (I mean of Gods Iudgments upon the Members of the Church of <hi>England</hi>) as well as he. And if I prove not mine, better then he proves divers of his, I ſhall have cauſe to be aſhamed. Now, foraſmuch as Mr. <hi>Edwards</hi> tels me, that after I publiſhed my vindication, he would publiſh the names of thoſe that helpt him to this relati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of me, which J have diſ<g ref="char:EOLhyphen"/>proved: J will wait to ſee what the man will ſay to all this, and in the mean while reſt,</p>
+            <closer>
+               <signed>Thine (in truth.) JOHN LANSETER.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
